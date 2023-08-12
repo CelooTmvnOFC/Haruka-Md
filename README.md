@@ -137,10 +137,10 @@
 
 ```ts
 {
-    "ownerNumber": ["622150996855@s.whatsapp.net","622150996855@s.whatsapp.net"],
-    "ownerName": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
-    "instagram" : "https://instagram.com/zeeoneofc",
-    "botName": "Haruka-Mdོ ",
+    "ownerNumber": ["6281958897556@s.whatsapp.net","6281958897556@s.whatsapp.net"],
+    "ownerName": "CelootmvnOfcོ ×፝֟͜×",
+    "instagram" : "https://instagram.com/cellodes_tmvn",
+    "botName": "CelloTmvnBoot ",
     "footer": "api.zeeoneofc.xyz",
     "sessionName": "session",
     "pathimg": "./media/Haruka.jpg",
